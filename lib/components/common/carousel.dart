@@ -37,7 +37,6 @@ class CarouselState extends State<Carousel> {
                   ),
           options: CarouselOptions(
             autoPlay: true,
-            height: 210,
             autoPlayInterval: Duration(seconds: 6),
             enlargeCenterPage: true,
           )),
